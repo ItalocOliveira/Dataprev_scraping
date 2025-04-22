@@ -24,3 +24,5 @@ As notícias extraídas são filtradas por uma data mínima (09/04/2010) e impre
    ```bash
    scrapy crawl noticia -o noticias.csv
    scrapy crawl noticia (caso não queira uma saída em .csv)
+
+## [Explicação detalhada no Notion](https://www.notion.so/Web-Crawling-Web-Scraping-1dc2ff4aeac78059bfe7c6b77784e003)
